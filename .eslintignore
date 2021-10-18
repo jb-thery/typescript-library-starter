@@ -1,0 +1,12 @@
+.eslintrc.js
+esbuild.config.js
+lib
+node_modules
+/src/db/
+scripts
+coverage
+rollup.config.ts
+examples
+commitlint.config.js
+TODO: replace calculator by your lib name
+calculator
